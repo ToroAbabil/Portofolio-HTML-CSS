@@ -21,7 +21,7 @@ Isi dari laporan hanyalah ss output dari web + link repository untuk codenya.
 ## 🔗 Repository
 
 **Link Repository GitHub:**  
-https://github.com/Ling9ar/Portofolio.git
+https://github.com/ToroAbabil/Portofolio-HTML-CSS
 
 ## Screenshot Output
 
